@@ -7,7 +7,7 @@ import sys
 setup(
     name="licorice",
     version="0.0.0",
-    python_requires=">3.8.0",
+    python_requires=">3.6.0",
     author="Michael E. Vinyard - Harvard University - Massachussetts General Hospital - Broad Institute of MIT and Harvard",
     author_email="mvinyard@broadinstitute.org",
     url=None,
@@ -19,6 +19,7 @@ setup(
     ],
     
     install_requires=[
+	"numpy>=1.21.4",
     ],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
