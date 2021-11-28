@@ -19,11 +19,11 @@ setup(
     ],
     
     install_requires=[
-	"numpy>=1.21.4",
+	"numpy>=1.17.0",
     ],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
-        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.6",
         "Intended Audience :: Science/Research",
         "Topic :: Scientific/Engineering :: Bio-Informatics",
     ],
