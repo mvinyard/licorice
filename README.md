@@ -1,4 +1,4 @@
-# licorice
+# ![licorice](/docs/images/licorice.svg)
 A python utility library for creating and printing more elegant strings.
 
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/licorice.svg)](https://pypi.python.org/pypi/licorice/)
