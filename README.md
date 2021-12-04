@@ -4,6 +4,7 @@ A python utility library for creating and printing more elegant strings.
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/licorice.svg)](https://pypi.python.org/pypi/licorice/)
 [![PyPI version](https://badge.fury.io/py/licorice.svg)](https://badge.fury.io/py/licorice)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Documentation Status](https://readthedocs.org/projects/licorice/badge/?version=latest)](https://licorice.readthedocs.io/en/latest/?badge=latest)
 
 ## Example use-cases
 
