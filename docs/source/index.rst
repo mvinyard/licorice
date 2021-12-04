@@ -10,11 +10,11 @@ licorice
    :maxdepth: 2
    :caption: Contents:
 
+.. toctree::
+
+   overview.md
 
 
-Indices and tables
-==================
+.. note::
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   This project is under active development.
