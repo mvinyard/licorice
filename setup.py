@@ -5,8 +5,8 @@ import sys
 
 
 setup(
-    name="licorice",
-    version="0.0.2",
+    name="licorice_font",
+    version="0.0.1",
     python_requires=">3.6.0",
     author="Michael E. Vinyard - Harvard University - Massachussetts General Hospital - Broad Institute of MIT and Harvard",
     author_email="mvinyard@broadinstitute.org",
@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     description="licorice - vibrant string color additions.",
     packages=[
-        "licorice",
+        "licorice_font",
     ],
     
     install_requires=[
